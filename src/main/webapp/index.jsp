@@ -6,7 +6,7 @@
 <title>Welcome to mercedes BANK</title>
 <style>
   body {
-    background-color: yellow;
+    background-color: white;
   }
 </style>
 </head>

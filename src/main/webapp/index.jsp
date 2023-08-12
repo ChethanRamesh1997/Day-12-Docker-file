@@ -3,10 +3,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Welcome to HDFCSA BANK</title>
+<title>Welcome to mercedes BANK</title>
 <style>
   body {
-    background-color: pink;
+    background-color: blue;
   }
 </style>
 </head>
